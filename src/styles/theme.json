@@ -1,0 +1,13 @@
+{
+    "colors":  {
+        "background": "#000814",
+        "primary": "#FFC300",
+        "secondary": "#1282A2",
+        "text": "#EBF2FA",
+        "info": "#E36464",
+        "muted": "#AEAEAE",
+        "title": "#FFFFFF",
+        "facebook": "#0A3C9B",
+        "google": "#F9F9F9"
+    }
+}

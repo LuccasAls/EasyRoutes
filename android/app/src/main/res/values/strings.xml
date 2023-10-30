@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app</string>
+      <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">(AIzaSyCZudyK2MItQ335qMYzE0fDtfMEK4ElzTI)</string>
+      <string name="facebook_app_id">2220572638146982</string>
+      <string name="fb_login_protocol_scheme">fb2220572638146982</string>
+      <string name="facebook_client_token">2ed09bf5a7824baa840fa8d56be25112</string>
+</resources>
